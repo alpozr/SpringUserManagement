@@ -1,12 +1,12 @@
 # SpringUserManagement
 ManagementApplication
 All the technologies I use are listed below:
---Spring Boot
---Spring Security
---Spring MVC
---Spring Data JPA
---Thymeleaf
---Bootstrap 4
---Java 9
---H2 Veritabanı
---Maven
+--/nSpring Boot
+--/nSpring Security
+--/nSpring MVC
+--/nSpring Data JPA
+--/nThymeleaf
+--/nBootstrap 4
+--/nJava 9
+--/nH2 Veritabanı
+--/nMaven
