@@ -8,5 +8,5 @@ Spring Boot
 ,Thymeleaf
 ,Bootstrap 4
 ,Java 9
-,H2 Veritabanı
+,H2 Database
 ,Maven
